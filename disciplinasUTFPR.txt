@@ -1,0 +1,47 @@
+CSM41 - Desenvolvimento De Aplicações Web  ----- 4N1(CB-106) - 4T6(CB-106) - 5N1(CB-106) - 5T6(CB-106)
+
+MA71A - Cálculo Diferencial E Integral 1   (6 Aulas semanais presenciais, 0 Aulas semanais assíncronas, 0 horas semestrais extensionistas) --- 3N4(CE-201) - 3N5(CE-201) - 4N1(CE-207) - 4N2(CE-207) - 5N1(CE-208) - 5T6(CE-208)
+
+CSF20 - Estrutura De Dados 1   (2,6 Aulas semanais presenciais, ,4 Aulas semanais assíncronas, 0 horas semestrais extensionistas) --- 2T4(CB-104) - 2T5(CB-104) - 2T6(CB-104)
+
+MA71B - Geometria Analítica E Álgebra Linear --- 2N1(CE-102) - 2N2(CE-102) - 4N1(CE-308) - 4N2(CE-308) - 6N1(CE-103) - 6N2(CE-103)
+
+
+
+
+
+CSV40 - S71
+* MA71A - S21
+CSM41 - S73
+* CSM30 - S73
+* CSE30 - S73
+-> CSF20 - S73
+CSG30 - S73
+-> MA71B - S73	
+GE70H - S02
+CSR43 - S73
+* CSH30 - S73
+CSI53 - S73
+CSR41 - S73
+CSV30 - S73
+CSB51 - S73
+CSR44 - S71
+
+CSI30 - S73
+ELSC01  N11 
+CSG41 - S73
+CSA42 - S73
+DI84D - N31
+MA72I - S41
+
+CSB30 - S73
+CSD21 - S73
+MA70H - S73 EAD
+
+
+
+MA72I - Álgebra Linear -- 3T3(CE-207) - 3T4(CE-207) - 5T3(CE-107) - 5T4(CE-107)
+
+
+
+https://www.kaggle.com/datasets
