@@ -4,3 +4,5 @@ https://dataunodc.un.org/
 https://ourworldindata.org/grapher/gdp-per-capita-worldbank?country=~LUX
 
 https://ourworldindata.org/12-key-metrics#3-population
+
+https://learn.microsoft.com/pt-br/power-bi/visuals/power-bi-visualization-combo-chart?tabs=powerbi-desktop
